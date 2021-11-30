@@ -1,7 +1,7 @@
 # Tiny try-catch-finally implementation for Lua
 ![](https://img.shields.io/github/license/stein197/lua-catchify)
 ![](https://img.shields.io/github/v/tag/stein197/lua-catchify?label=Version)
-![](https://img.shields.io/luarocks/v/stein197/lua-catchify)
+![](https://img.shields.io/luarocks/v/stein197/catchify)
 
 Lua does not have a common syntax sugar to wrap the code that will possibly lead to errors. This package provides a very simple way to bring this sugar to Lua.
 
